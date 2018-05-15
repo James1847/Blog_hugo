@@ -15,10 +15,10 @@ celery的概念我就不详细介绍了，这个是在python里做异步最好�
 1. **broker**是celery的消息队列，这个在celery官方推荐用rabbitmq这个队列做我们的broker，说到rabbitmq，其实是有一段历史的，这个大家可以自行
 百度，正是历史原因，才有了rabbitmq这个开源的消息队列（amqp协议），rabbitmq的好处就是队列不会丢我们的celery任务（相较于django orm和redis）。
 
-2. **worker**是celery执行代码的消费者，这个是业务逻辑的执行方，我们写的代码实际上都是broker在执行。启动broker需要单独的进程，一般都是使用celery cli执行
-命令使用，比较好的实现是把worker作为守护进程，这里推荐大家使用docker封装，或者使用supervisor来使得celery worker变为守护进程。
+2. **worker**是celery执行代码的消费者，这个是业务逻辑的执行方，我们写的代码实际上都是worker实例在执行。启动worker实例需要单独的进程，
+一般都是使用**celery cli**执行命令使用，比较好的实现是把worker作为守护进程，这里推荐大家使用docker封装，或者使用supervisor来使得celery worker变为守护进程。
 
-3. **backed**就是worker执行完之后的result的存储端，我一般都是在django里使用django-celery-backed这个包，可以查看文档把result存入Django orm里，很
+3. **backed**就是worker执行完之后的result的存储端，我一般都是在django里使用django-celery-results这个包，可以查看文档把result存入Django orm里，很
 方便。
 
 ##### 二、celery集群
