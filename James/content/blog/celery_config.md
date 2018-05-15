@@ -45,7 +45,7 @@ celery集群的第一步就是需要在你的celery config里配置好各自的�
 
     celery worker -A config -l INFO --hostname=add_notice_async --queues=add_notice_async -c 1
     celery worker -A config -l INFO -n send_tts -Q send_tts -c 1
-这里需要说明一下参数的意义，** —A --app** 指定配置的app目录，celery会从这个app里读取配置信息，**-l --log info**
+这里需要说明一下参数的意义，**—A --app** 指定配置的app目录，celery会从这个app里读取配置信息，**-l --log info**
 配置日志级别，一般设为info, **--hostname** 指定你启动的celery实例的名称，应为是集群，所以你的每一个celery实例都应该有一个特殊的名字方便broker把消息
 传递过去， **--queues=** 这个参数很重要，这个是根据你设定的queue，来让worker消费指定的queue, **-c**这个是指定每个worker实例启动多少个并发，我这里设定
 为一个，一般是cpu的数量。
