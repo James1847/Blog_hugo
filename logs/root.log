@@ -1,0 +1,211 @@
+[?25lBuilding sites … [?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 36  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 23  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 121 ms
+Watching for changes in /data/prd/Blog/James/{content,data,layouts,static,themes}
+Watching for config changes in /data/prd/Blog/James/config.toml
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://secretsuperstart.xyz:1313/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site
+2018-05-08 12:47:58.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/creating-a-new-theme.md": REMOVE
+Source changed "/data/prd/Blog/James/content/blog/example-of-an-article.md": REMOVE
+Source changed "/data/prd/Blog/James/content/blog/goisforlovers.md": REMOVE
+Source changed "/data/prd/Blog/James/content/blog/hugoisforlovers.md": REMOVE
+Total in 11 ms
+
+Change detected, rebuilding site
+2018-05-08 14:12:54.181 +0800
+Total in 11 ms
+
+Change detected, rebuilding site
+2018-05-08 14:13:06.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-08 14:14:05.181 +0800
+Total in 22 ms
+
+Change detected, rebuilding site
+2018-05-08 14:14:12.181 +0800
+Total in 14 ms
+
+Change detected, rebuilding site
+2018-05-08 14:14:22.181 +0800
+Total in 19 ms
+
+Change detected, rebuilding site
+2018-05-08 14:14:23.181 +0800
+Total in 20 ms
+
+Change detected, rebuilding site
+2018-05-08 14:14:54.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-08 14:16:05.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 21 ms
+
+Change detected, rebuilding site
+2018-05-08 14:16:34.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 16 ms
+
+Change detected, rebuilding site
+2018-05-08 14:17:56.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 22 ms
+
+Change detected, rebuilding site
+2018-05-08 14:18:26.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 23 ms
+
+Change detected, rebuilding site
+2018-05-08 14:23:57.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 16 ms
+
+Change detected, rebuilding site
+2018-05-08 14:24:25.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 21 ms
+
+Change detected, rebuilding site
+2018-05-08 14:33:18.181 +0800
+Total in 16 ms
+
+Change detected, rebuilding site
+2018-05-08 14:33:20.181 +0800
+Total in 20 ms
+
+Change detected, rebuilding site
+2018-05-08 14:33:27.181 +0800
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-08 14:35:17.181 +0800
+Total in 22 ms
+
+Change detected, rebuilding site
+2018-05-08 14:35:29.181 +0800
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-08 14:35:37.181 +0800
+Total in 23 ms
+
+Change detected, rebuilding site
+2018-05-08 14:35:48.181 +0800
+Total in 23 ms
+
+Change detected, rebuilding site
+2018-05-08 14:36:11.181 +0800
+Total in 14 ms
+
+Change detected, rebuilding site
+2018-05-08 14:36:27.181 +0800
+Total in 20 ms
+
+Change detected, rebuilding site
+2018-05-08 14:36:57.181 +0800
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-08 14:37:17.181 +0800
+Total in 23 ms
+
+Change detected, rebuilding site
+2018-05-08 14:37:51.181 +0800
+Total in 20 ms
+
+Change detected, rebuilding site
+2018-05-08 14:38:16.181 +0800
+Source changed "/data/prd/Blog/James/content/home.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-08 14:38:50.181 +0800
+Total in 20 ms
+
+Change detected, rebuilding site
+2018-05-08 14:38:56.181 +0800
+Total in 25 ms
+
+Change detected, rebuilding site
+2018-05-08 14:39:00.181 +0800
+Source changed "/data/prd/Blog/James/content/home.md": WRITE
+Total in 16 ms
+
+Change detected, rebuilding site
+2018-05-08 14:39:26.181 +0800
+Total in 19 ms
+
+Change detected, rebuilding site
+2018-05-08 14:39:32.181 +0800
+Total in 14 ms
+
+Change detected, rebuilding site
+2018-05-08 14:39:49.181 +0800
+Source changed "/data/prd/Blog/James/content/home.md": WRITE
+Total in 25 ms
+
+Change detected, rebuilding site
+2018-05-08 14:40:07.181 +0800
+Total in 20 ms
+
+Change detected, rebuilding site
+2018-05-08 14:40:17.181 +0800
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-08 14:40:23.181 +0800
+Source changed "/data/prd/Blog/James/content/home.md": WRITE
+Total in 22 ms
+
+Change detected, rebuilding site
+2018-05-10 15:04:48.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Source changed "/data/prd/Blog/James/content/home.md": WRITE
+Total in 19 ms
+
+Change detected, rebuilding site
+2018-05-10 15:07:17.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-10 15:13:19.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/ssh_continue.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site
+2018-05-15 23:16:48.208 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+Total in 44 ms
+
+Change detected, rebuilding site
+2018-05-15 23:24:56.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+Source changed "/data/prd/Blog/James/content/home.md": WRITE
+Total in 23 ms
+
+Change detected, rebuilding site
+2018-05-15 23:26:29.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+Total in 17 ms
