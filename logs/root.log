@@ -253,3 +253,42 @@ Change detected, rebuilding site
 2018-05-17 09:57:01.181 +0800
 Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/_default/single.html": WRITE
 Total in 40 ms
+Started building sites ...
+ERROR 2018/05/17 10:01:36 failed to parse page metadata for "blog/celery_config.md": Near line 3 (last key parsed 'slug'): expected value but found "hugo" instead for blog/celery_config.md
+Total in 40 ms
+ERROR 2018/05/17 10:01:36 failed to parse page metadata for "blog/celery_config.md": Near line 3 (last key parsed 'slug'): expected value but found "hugo" instead
+
+Change detected, rebuilding site
+2018-05-17 10:03:07.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+Total in 20 ms
+
+Change detected, rebuilding site
+2018-05-17 10:14:46.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/_default/single.html": WRITE
+Total in 31 ms
+
+Change detected, rebuilding site
+2018-05-17 11:00:51.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/partials/footer.html": WRITE
+Total in 31 ms
+
+Change detected, rebuilding site
+2018-05-17 11:01:42.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/partials/footer.html": WRITE
+Total in 41 ms
+
+Change detected, rebuilding site
+2018-05-17 11:02:29.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/partials/footer.html": WRITE
+Total in 32 ms
+
+Change detected, rebuilding site
+2018-05-17 16:59:26.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/partials/comments.html": WRITE
+Total in 33 ms
+
+Change detected, rebuilding site
+2018-05-17 17:02:26.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+Total in 16 ms

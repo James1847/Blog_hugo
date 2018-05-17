@@ -1,4 +1,4 @@
-baseurl = "https://secretsuperstart.xyz/"
+baseurl = "http://secretsuperstart.xyz/"
 theme = "hugo-theme-cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -8,8 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "James"
 title = "James的个人博客"
-disqusshortname = ""
-pluralizelisttitles = false
+disqusShortname = "blog_disscuss"
 
 [permalinks]
 blog = "blog/:slug/"
@@ -27,11 +26,11 @@ share = true
 # disable by setting share_on_<social network> = false
 # example: share_on_googleplus = false
 latestpostcount = 5
-github = "example"
+github = "https://github.com/James1847/"
 email = "1536755789@qq.com"
-linkedin = "john-example-aa80ue8è"
-twitter = "example"
-facebook = "facebook_id"
+# linkedin = "john-example-aa80ue8è"
+# twitter = "example"
+# facebook = "facebook_id"
 social_banner = "img/banner.png"
 usesmallsummarycard = true
 posts_navigation = true
