@@ -209,3 +209,42 @@ Change detected, rebuilding site
 2018-05-15 23:26:29.181 +0800
 Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
 Total in 17 ms
+
+Change detected, rebuilding site
+2018-05-17 00:33:28.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/_default/single.html": WRITE
+Total in 201 ms
+
+Change detected, rebuilding site
+2018-05-17 00:40:06.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/_default/single.html": WRITE
+Total in 35 ms
+
+Change detected, rebuilding site
+2018-05-17 00:42:38.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+Total in 18 ms
+
+Change detected, rebuilding site
+2018-05-17 00:44:01.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+ERROR 2018/05/17 00:44:01 failed to parse page metadata for "blog/celery_config.md": Near line 4 (last key parsed 'slug'): expected value but found "hugo" instead for blog/celery_config.md
+Total in 1 ms
+ERROR 2018/05/17 00:44:01 Failed to rebuild site: failed to parse page metadata for "blog/celery_config.md": Near line 4 (last key parsed 'slug'): expected value but found "hugo" instead
+
+Change detected, rebuilding site
+2018-05-17 00:46:31.181 +0800
+Source changed "/data/prd/Blog/James/content/blog/celery_config.md": WRITE
+ERROR 2018/05/17 00:46:31 failed to parse page metadata for "blog/celery_config.md": Near line 3 (last key parsed 'slug'): expected value but found "hugo" instead for blog/celery_config.md
+Total in 2 ms
+ERROR 2018/05/17 00:46:31 Failed to rebuild site: failed to parse page metadata for "blog/celery_config.md": Near line 3 (last key parsed 'slug'): expected value but found "hugo" instead
+
+Change detected, rebuilding site
+2018-05-17 00:48:00.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/_default/single.html": WRITE
+Total in 37 ms
+
+Change detected, rebuilding site
+2018-05-17 00:48:21.181 +0800
+Template changed "/data/prd/Blog/James/themes/hugo-theme-cocoa-eh/layouts/_default/single.html": WRITE
+Total in 37 ms
