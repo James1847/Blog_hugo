@@ -1,6 +1,8 @@
 +++
 date = "2018-05-08"
 title = "SSH终端卡死"
+comments = true
+slug = 2
 +++
 
 >工作中经常用ssh连接到服务器,但是过一段时间ssh终端会自动卡死,以下教程解决ssh终端卡死问题
