@@ -2,6 +2,7 @@
 date = "2018-05-15"
 title = "celery集群部署"
 comments = true
+slug = 1
 +++
 
 >最近的工作中，经常用到celery做异步任务，但是把整个业务逻辑写在一个celery worker里是一个很不理想的方案，尤其现在是一个微服务盛行的年代
