@@ -3,6 +3,6 @@ date = "2018-05-07"
 title = "关于我"
 +++
 
-_James的个人博客，想了想，采用hugo框架搭建博客，目前正在采坑，呵呵_
+_I'm JAMES, only wanna to write what I thought, when the time sleep, I'm thinking.
 
->这个博客的目的就是为了记录工作和生活中的事情和技术问题，里面会包含我个人的一些内容
+> 工作是为了更好的生活，不要成为你的负担。
