@@ -1,6 +1,6 @@
 +++
 date = "2018-05-30"
-title = "Django的认证和授权机制"
+title = "Celery集群问题小记"
 comments = true
 slug = 4
 +++
