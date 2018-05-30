@@ -1,6 +1,8 @@
 +++
 date = "2018-05-30"
 title = "Django的认证和授权机制"
+comments = true
+slug = 3
 +++
 
 
