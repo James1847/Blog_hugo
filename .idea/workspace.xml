@@ -81,12 +81,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="celery_worker_connection.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="celery_worker_connection.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/James/content/blog/celery_worker_connection.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="301">
-                <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -95,11 +95,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/James/content/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -129,6 +131,7 @@
         <option value="$PROJECT_DIR$/James/content/projects/networkliteral.md" />
         <option value="$PROJECT_DIR$/James/content/blog/django_auth_perm.md" />
         <option value="$PROJECT_DIR$/James/content/blog/celery_worker_connection.md" />
+        <option value="$PROJECT_DIR$/James/content/about.md" />
       </list>
     </option>
   </component>
@@ -1002,16 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/James/content/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/James/content/license.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1054,8 +1047,20 @@
     <entry file="file://$PROJECT_DIR$/James/content/blog/celery_worker_connection.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="301">
-            <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/James/content/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
