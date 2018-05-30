@@ -34,7 +34,8 @@ django的认证权限是分为这两大块的，只有我们深入了解django�
 Author: James
 
 Reference:
-- http://www.django-rest-framework.org/api-guide/permissions/#api-reference
+
+- http://www.django-rest-framework.org/api-guide/permissions/#api-reference/
 
 - http://polyglot.ninja/django-rest-framework-authentication-permissions/
 
