@@ -56,4 +56,4 @@ xx.py中的**xx**就是最后你的命令名字，执行时就是**python manage
 
 
 三、我们的逻辑就是click增加django的cli事件，fabric执行逻辑代码。最后执行我们的cli时，只需要**Python manage.py makemigrate**效果如下图：
-![Example image](/static/img/post/WechatIMG3181.jpeg)
+![Example image](/img/post/WechatIMG3181.jpeg)
