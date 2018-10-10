@@ -2,7 +2,7 @@
 date = "2018-10-10"
 title = "Django的csrf原理"
 comments = true
-slug = 2
+slug = 6
 +++
 
 > 网上看了很多Django的CSRF防御解析,发现很多都是解答的不详细,网上大多都是说在cookie里传入一个csrftoken进行验证,那么问题来了，如果只在cookie里存入
